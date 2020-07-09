@@ -1,0 +1,8 @@
+<?php
+
+if(getcwd() != '/home/profdgpo/dashboard.profitstockoption.com/public'){
+ die();
+}else{
+	$views = 'views';
+}
+?>
